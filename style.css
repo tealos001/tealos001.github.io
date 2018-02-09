@@ -1,0 +1,18 @@
+h1 {
+  color:cyan;
+  background-color: purple;
+  border: 1px solid black;
+}
+p {
+  font-family: fantasy;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+body{
+  background-color: cyan;
+}
